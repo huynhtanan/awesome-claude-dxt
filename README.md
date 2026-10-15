@@ -397,6 +397,7 @@ If you have any disconnect issue check the `manifest.json` at these useful repos
 ### Professional Apps
 
 - [GongRzhe/TRAVEL-PLANNER-MCP-Server](https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server) - Travel planning and itinerary management server integrating with Google Maps API for location search, place details, and route calculations.
+- [huynhtanan/google-hotels-mcp](https://github.com/huynhtanan/google-hotels-mcp) - Google Hotels, Vrbo and Booking.com vacation rentals, plus a 3-month daily price calendar — three tools exposed over stdio, backed by Apify Actors.
 - [Laksh-star/mcp-server-tmdb](https://github.com/Laksh-star/mcp-server-tmdb) - This MCP server integrates with The Movie Database (TMDB) API to provide movie information, search capabilities, and recommendations.
 - [ChristianHinge/dicom-mcp](https://github.com/ChristianHinge/dicom-mcp) - An MCP server to query and retrieve medical images and for parsing and reading dicom-encapsulated documents (pdf etc.).
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - Give your coding agent direct access to Figma file data, helping it one-shot design implementation.
